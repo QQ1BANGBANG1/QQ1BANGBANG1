@@ -1,3 +1,5 @@
+<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ## :sassy_man:  About me
 - :computer: I'm a `Website Developer`
 - :thinking: I’m Currently Handling A [Discord](https://discord.gg/FFsAK75udz) Server For Developers, Designers And So More...
