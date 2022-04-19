@@ -18,8 +18,6 @@
 
 ## 🏆  Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qq1bangbang1&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="qq1bangbang1" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qq1bangbang1&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="qq1bangbang1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qq1bangbang1&theme=dark" alt="qq1bangbang1" /></p>
